@@ -30,16 +30,11 @@ class Consumer_Reference(models.Model):
 		return self.name
 
 class Agency_Raw(models.Model):
-	percentage_of_total_budget_authority = models.FloatField()
-	budget_authority_amount = models.FloatField()
-	obligated_amount = models.FloatField()
-	active_fq = models.IntegerField(default=0)
-	active_fy = models.IntegerField(default=0)
-	outlay_amount = models.FloatField()
-	abbreviation = models.CharField(max_length=32)
-	agency_id = models.IntegerField(default=0)
-	agency_name = models.CharField(max_length=128)
-	current_total_budget_authority_amount = models.FloatField()
+	name = models.CharField(max_length=128, default="no name")
+	agency_id = models.CharField(max_length=4)
+	amount = models.FloatField(default=0)
+	code = models.CharField(max_length=4, default="000")
+	category = models.CharField(max_length=32, default="agency")
 
 	def __str__(self):
 		return self.name
@@ -48,9 +43,9 @@ class Federal_Account_Raw(models.Model):
 	name = models.CharField(max_length=256)
 	account_id = models.IntegerField(default=0)
 	account_number = models.CharField(max_length=16)
-	code = models.IntegerField(default=0)
+	code = models.CharField(max_length=4, default=0)
 	amount = models.FloatField()
-	category = models.CharField(max_length=32)
+	category = models.CharField(max_length=32, default="federal_account")
 
 	def __str__(self):
 		return self.name
