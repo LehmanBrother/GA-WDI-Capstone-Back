@@ -1,0 +1,62 @@
+{
+    "agencies": [],
+    "federal_accounts": [
+        {
+            "federal_account_id": 4753,
+            "federal_account_name": "Agency Operations and Award Management, National Science Foundation"
+        },
+        {
+            "federal_account_id": 4761,
+            "federal_account_name": "Donations, National Science Foundation"
+        },
+        {
+            "federal_account_id": 4751,
+            "federal_account_name": "Education and Human Resources, National Science Foundation"
+        },
+        {
+            "federal_account_id": 4752,
+            "federal_account_name": "Education and Human Resources - Recovery Act, National Science Foundation"
+        },
+        {
+            "federal_account_id": 4757,
+            "federal_account_name": "Major Research Equipment and Facilities Construction, National Science Foundation"
+        },
+        {
+            "federal_account_id": 4758,
+            "federal_account_name": "Major Research Equipment and Facilities Construction - Recovery Act, National Science Foundation"
+        },
+        {
+            "federal_account_id": 4754,
+            "federal_account_name": "Office of Inspector General, National Science Foundation"
+        },
+        {
+            "federal_account_id": 4755,
+            "federal_account_name": "Office of Inspector General - Recovery Act, National Science Foundation"
+        },
+        {
+            "federal_account_id": 4756,
+            "federal_account_name": "Office of the National Science Board, National Science Foundation"
+        },
+        {
+            "federal_account_id": 4749,
+            "federal_account_name": "Research and Related Activities, National Science Foundation"
+        },
+        {
+            "federal_account_id": 4750,
+            "federal_account_name": "Research and Related Activities - Recovery Act, National Science Foundation"
+        },
+        {
+            "federal_account_id": 4759,
+            "federal_account_name": "Salaries and Expenses, H-1B Funded, Education  and Human Resources, National Science Foundation"
+        },
+        {
+            "federal_account_id": 4760,
+            "federal_account_name": "United States - India Fund for Cultural, Educational, and Scientific Cooperation, National Science Foundation, India"
+        }
+    ],
+    "sub_agencies": [
+        {
+            "subtier_agency_name": "National Science Foundation"
+        }
+    ]
+}

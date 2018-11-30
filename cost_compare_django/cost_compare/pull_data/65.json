@@ -1,0 +1,206 @@
+{
+    "agencies": [],
+    "federal_accounts": [
+        {
+            "federal_account_id": 5362,
+            "federal_account_name": "Acquisition of Property Revolving Fund, Agency for International Development"
+        },
+        {
+            "federal_account_id": 5369,
+            "federal_account_name": "Advances from Foreign Governments for Technical Assistance, AID, Republic of Congo"
+        },
+        {
+            "federal_account_id": 5366,
+            "federal_account_name": "Advances Without Orders from Non-Federal Sources, Agency for International Development"
+        },
+        {
+            "federal_account_id": 5337,
+            "federal_account_name": "Assistance for Eastern Europe and the Baltic States, Funds Appropriated to the President"
+        },
+        {
+            "federal_account_id": 5329,
+            "federal_account_name": "Assistance for Europe, Eurasia and Central Asia, Funds Appropriated to the President, Agency for International Development"
+        },
+        {
+            "federal_account_id": 5352,
+            "federal_account_name": "Assistance for the Independent States of the Former Soviet Union, Funds Appropriated to the President"
+        },
+        {
+            "federal_account_id": 5332,
+            "federal_account_name": "Assistance for the New Independent States of the Former Soviet Union:  Ukraine Export Credit Insurance Program Account"
+        },
+        {
+            "federal_account_id": 5324,
+            "federal_account_name": "Capital Investment Fund of the United States Agency for International Development, Funds Appropriated to the President"
+        },
+        {
+            "federal_account_id": 5326,
+            "federal_account_name": "Capital Investment Fund of the United States Agency for International Development - Recovery Act, Funds Appropriated to the President"
+        },
+        {
+            "federal_account_id": 5354,
+            "federal_account_name": "Central America and the Caribbean Emergency Disaster Recovery Fund, Agency for International Development"
+        },
+        {
+            "federal_account_id": 5350,
+            "federal_account_name": "Central America Reconstruction Assistance"
+        },
+        {
+            "federal_account_id": 5353,
+            "federal_account_name": "Child Survival and Health Programs Fund, United States Agency for International Development"
+        },
+        {
+            "federal_account_id": 5328,
+            "federal_account_name": "Civilian Stabilization Initiative, Funds Appropriated to the President, Agency for International Development"
+        },
+        {
+            "federal_account_id": 5340,
+            "federal_account_name": "Complex Crises Fund, Funds Appropriated to the President, Agency for International Development"
+        },
+        {
+            "federal_account_id": 5356,
+            "federal_account_name": "Demobilization and Transition Fund, Funds Appropriated to the President"
+        },
+        {
+            "federal_account_id": 5341,
+            "federal_account_name": "Development Assistance, Agency for International Development, Funds Appropriated to the President"
+        },
+        {
+            "federal_account_id": 5355,
+            "federal_account_name": "Development Credit Authority, United States Agency for International Development"
+        },
+        {
+            "federal_account_id": 5357,
+            "federal_account_name": "Development Loan Fund, Executive"
+        },
+        {
+            "federal_account_id": 5349,
+            "federal_account_name": "Economic Support Fund, Funds Appropriated to the President"
+        },
+        {
+            "federal_account_id": 5344,
+            "federal_account_name": "Education and Human Resources Development, Development Assistance, Economic Assistance, Funds Appropriated to the President"
+        },
+        {
+            "federal_account_id": 5365,
+            "federal_account_name": "Employee and Employer Contributions, Foreign Government Social Security and Related Programs, Agency for International Development"
+        },
+        {
+            "federal_account_id": 5364,
+            "federal_account_name": "Employees' Payroll Allotment Account, United States Savings Bonds, Agency for International Development"
+        },
+        {
+            "federal_account_id": 5342,
+            "federal_account_name": "Food and Nutrition, Development Assistance, Economic Assistance, Funds Appropriated to the President"
+        },
+        {
+            "federal_account_id": 5370,
+            "federal_account_name": "Foreign National Employees Separation Liability Fund, Agency for International Development"
+        },
+        {
+            "federal_account_id": 5372,
+            "federal_account_name": "Gifts and Donations, Agency for International Development"
+        },
+        {
+            "federal_account_id": 5346,
+            "federal_account_name": "Global Fund to Fight HIV/AIDS, Malaria, and Tuberculosis, U.S. Agency for International Development"
+        },
+        {
+            "federal_account_id": 5347,
+            "federal_account_name": "HIV/AIDS Working Capital Fund, Agency for International Development"
+        },
+        {
+            "federal_account_id": 5359,
+            "federal_account_name": "Housing and Other Credit Guaranty Programs, Liquidating Account, Agency for International Development"
+        },
+        {
+            "federal_account_id": 5348,
+            "federal_account_name": "International Disaster Assistance, Funds Appropriated to the President, US Agency for International Development"
+        },
+        {
+            "federal_account_id": 5325,
+            "federal_account_name": "Loan Guarantees to Israel Program Account, International Assistance Programs, Agency for International Development"
+        },
+        {
+            "federal_account_id": 5363,
+            "federal_account_name": "Loan Guarantees to Israel Program, Reimbursements of Administrative Expenses, Agency for International Development"
+        },
+        {
+            "federal_account_id": 5327,
+            "federal_account_name": "Loans Guarantees to Egypt Program Account, International Assistance Programs, Agency for International Development"
+        },
+        {
+            "federal_account_id": 5333,
+            "federal_account_name": "MENA Loan Guarantee Program Account, Funds Appropriated to the President, US Agency for International Development"
+        },
+        {
+            "federal_account_id": 5330,
+            "federal_account_name": "Micro and Small Enterprise Development Program Account, Agency for International Development"
+        },
+        {
+            "federal_account_id": 5334,
+            "federal_account_name": "Operating Expenses of the United States Agency for International Development, Funds Appropriated to the President"
+        },
+        {
+            "federal_account_id": 5336,
+            "federal_account_name": "Operating Expenses of the United States Agency for International Development, Office of the Inspector General, Funds Appropriated to the President"
+        },
+        {
+            "federal_account_id": 5343,
+            "federal_account_name": "Population Planning and Health, Development Assistance, Economic Assistance, Funds Appropriated to the President"
+        },
+        {
+            "federal_account_id": 5360,
+            "federal_account_name": "Private Sector Revolving Fund, Liquidating Account, Agency for  International Development"
+        },
+        {
+            "federal_account_id": 5358,
+            "federal_account_name": "Property Management Fund, Agency for International Development"
+        },
+        {
+            "federal_account_id": 5338,
+            "federal_account_name": "Sahel Development Program, Funds Appropriated to the President"
+        },
+        {
+            "federal_account_id": 5335,
+            "federal_account_name": "State"
+        },
+        {
+            "federal_account_id": 5339,
+            "federal_account_name": "Sub-Saharan Africa, Development Assistance, Funds Appropriated to the President"
+        },
+        {
+            "federal_account_id": 5351,
+            "federal_account_name": "Sub-Saharan Africa Disaster Assistance, Funds Appropriated to the President"
+        },
+        {
+            "federal_account_id": 5368,
+            "federal_account_name": "Suspense, Agency for International Development"
+        },
+        {
+            "federal_account_id": 5367,
+            "federal_account_name": "Suspense, Deposits Abroad, Agency for International Development"
+        },
+        {
+            "federal_account_id": 5371,
+            "federal_account_name": "Technical Assistance, United States Dollars Advanced from Foreign Governments, Agency for International Development"
+        },
+        {
+            "federal_account_id": 5345,
+            "federal_account_name": "Transition Initiatives, International Assistance Program, Agency for International Development"
+        },
+        {
+            "federal_account_id": 5331,
+            "federal_account_name": "Urban and Environmental Credit Program Account, Agency for International Development"
+        },
+        {
+            "federal_account_id": 5361,
+            "federal_account_name": "Working Capital Fund, International Assistance Program"
+        }
+    ],
+    "sub_agencies": [
+        {
+            "subtier_agency_name": "Agency for International Development"
+        }
+    ]
+}

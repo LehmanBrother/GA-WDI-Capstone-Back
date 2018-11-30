@@ -1,0 +1,242 @@
+{
+    "agencies": [],
+    "federal_accounts": [
+        {
+            "federal_account_id": 5878,
+            "federal_account_name": "Academic Competitiveness Grant Program, Education"
+        },
+        {
+            "federal_account_id": 5917,
+            "federal_account_name": "Advances Without Orders from Non-Federal Sources, Education"
+        },
+        {
+            "federal_account_id": 5895,
+            "federal_account_name": "American Printing House for the Blind, Special Institutions for Persons with Disabilities, Department of Education"
+        },
+        {
+            "federal_account_id": 5906,
+            "federal_account_name": "Bilingual and Immigrant Education, Education"
+        },
+        {
+            "federal_account_id": 5894,
+            "federal_account_name": "Career, Technical, and Adult Education, Education"
+        },
+        {
+            "federal_account_id": 5881,
+            "federal_account_name": "Chicago Litigation Settlement, Education"
+        },
+        {
+            "federal_account_id": 5886,
+            "federal_account_name": "College Housing and Academic Facilities Loans, Liquidating Account, Education"
+        },
+        {
+            "federal_account_id": 5885,
+            "federal_account_name": "College Housing and Academic Facilities Loans Program,  Education"
+        },
+        {
+            "federal_account_id": 5911,
+            "federal_account_name": "College Housing Loans, Education"
+        },
+        {
+            "federal_account_id": 5920,
+            "federal_account_name": "Contributions,  Education"
+        },
+        {
+            "federal_account_id": 5901,
+            "federal_account_name": "Education for the Disadvantaged, Department of Education"
+        },
+        {
+            "federal_account_id": 5902,
+            "federal_account_name": "Education for the Disadvantaged - Recovery Act, Education"
+        },
+        {
+            "federal_account_id": 5864,
+            "federal_account_name": "Education Jobs Fund, Office of Elementary and Secondary Education, Education"
+        },
+        {
+            "federal_account_id": 5887,
+            "federal_account_name": "Federal Direct Student Loan Program, Education"
+        },
+        {
+            "federal_account_id": 5883,
+            "federal_account_name": "Federal Family Education Loan Program Account, Education"
+        },
+        {
+            "federal_account_id": 5912,
+            "federal_account_name": "Federal Student Loan Reserve Fund, Education"
+        },
+        {
+            "federal_account_id": 5897,
+            "federal_account_name": "Gallaudet University, Special Institutions for Persons with Disabilities, Education"
+        },
+        {
+            "federal_account_id": 5921,
+            "federal_account_name": "Gifts and Donations, National Institute for Literacy, Department of Education"
+        },
+        {
+            "federal_account_id": 5882,
+            "federal_account_name": "Guaranteed Student Loans, Liquidating Account, Education"
+        },
+        {
+            "federal_account_id": 5913,
+            "federal_account_name": "Health Education Assistance Loans Liquidating Account, Education"
+        },
+        {
+            "federal_account_id": 5888,
+            "federal_account_name": "Health Education Assistance Loans Program Account, Education"
+        },
+        {
+            "federal_account_id": 5916,
+            "federal_account_name": "HEA Title IV Financial Guarantees Deposits, Education"
+        },
+        {
+            "federal_account_id": 5874,
+            "federal_account_name": "Higher Education, Department of Education"
+        },
+        {
+            "federal_account_id": 5884,
+            "federal_account_name": "Higher Education Facilities Loans and Insurance,  Education"
+        },
+        {
+            "federal_account_id": 5869,
+            "federal_account_name": "Higher Education - Recovery Act, Education"
+        },
+        {
+            "federal_account_id": 5909,
+            "federal_account_name": "Historically Black College and University Capital Financing, Program Account, Department of Education"
+        },
+        {
+            "federal_account_id": 5898,
+            "federal_account_name": "Howard University, Education"
+        },
+        {
+            "federal_account_id": 5865,
+            "federal_account_name": "Hurricane Education Recovery, Office of Elementary and Secondary Education, Education"
+        },
+        {
+            "federal_account_id": 5867,
+            "federal_account_name": "Impact AID, Department of Education"
+        },
+        {
+            "federal_account_id": 5868,
+            "federal_account_name": "Impact AID - Recovery Act, Education"
+        },
+        {
+            "federal_account_id": 5866,
+            "federal_account_name": "Indian Education, Office of Elementary and Secondary Education,  Education"
+        },
+        {
+            "federal_account_id": 5877,
+            "federal_account_name": "Innovation and Improvement, Department of Education"
+        },
+        {
+            "federal_account_id": 5880,
+            "federal_account_name": "Innovation and Improvement - Recovery Act, Education"
+        },
+        {
+            "federal_account_id": 5905,
+            "federal_account_name": "Institute of Education Sciences, Department of Education"
+        },
+        {
+            "federal_account_id": 5870,
+            "federal_account_name": "Institute of Education Sciences - Recovery Act, Education"
+        },
+        {
+            "federal_account_id": 5889,
+            "federal_account_name": "Iraq and Afghanistan Service Grants Program, Office of Federal Student AID, Education"
+        },
+        {
+            "federal_account_id": 5896,
+            "federal_account_name": "National Technical Institute for the Deaf, Special Institutions for Persons with Disabilities, Department of Education"
+        },
+        {
+            "federal_account_id": 5899,
+            "federal_account_name": "Office for Civil Rights, Departmental Management, Education"
+        },
+        {
+            "federal_account_id": 5907,
+            "federal_account_name": "Office of the Inspector General, Departmental Management, Education"
+        },
+        {
+            "federal_account_id": 5908,
+            "federal_account_name": "Office of the Inspector General - Recovery Act, Departmental Management, Education"
+        },
+        {
+            "federal_account_id": 5915,
+            "federal_account_name": "Pending Grantbacks, Education"
+        },
+        {
+            "federal_account_id": 5900,
+            "federal_account_name": "Program Administration, Departmental Management, Education"
+        },
+        {
+            "federal_account_id": 5892,
+            "federal_account_name": "Rehabilitation Services and Disability Research, Education"
+        },
+        {
+            "federal_account_id": 5893,
+            "federal_account_name": "Rehabilitation Services and Disability Research - Recovery Act, Education"
+        },
+        {
+            "federal_account_id": 5876,
+            "federal_account_name": "Safe Schools and Citizenship Education,  Education"
+        },
+        {
+            "federal_account_id": 5903,
+            "federal_account_name": "School Improvement Programs, Department of Education"
+        },
+        {
+            "federal_account_id": 5904,
+            "federal_account_name": "School Improvement Programs - Recovery Act, Education"
+        },
+        {
+            "federal_account_id": 5918,
+            "federal_account_name": "Small Escrow Amounts, Education"
+        },
+        {
+            "federal_account_id": 5891,
+            "federal_account_name": "Special Education, Education"
+        },
+        {
+            "federal_account_id": 5890,
+            "federal_account_name": "Special Education - Recovery Act, Education"
+        },
+        {
+            "federal_account_id": 5910,
+            "federal_account_name": "State Fiscal Stabilization Fund - Recovery Act, Education"
+        },
+        {
+            "federal_account_id": 5875,
+            "federal_account_name": "Student AID Administration, Education"
+        },
+        {
+            "federal_account_id": 5871,
+            "federal_account_name": "Student AID Administration - Recovery Act, Education"
+        },
+        {
+            "federal_account_id": 5914,
+            "federal_account_name": "Student Financial Assistance Debt Collection, Education"
+        },
+        {
+            "federal_account_id": 5873,
+            "federal_account_name": "Student Financial Assistance, Education"
+        },
+        {
+            "federal_account_id": 5872,
+            "federal_account_name": "Student Financial Assistance - Recovery Act, Education"
+        },
+        {
+            "federal_account_id": 5879,
+            "federal_account_name": "Teach Grant Program Account,  Education"
+        },
+        {
+            "federal_account_id": 5919,
+            "federal_account_name": "United States - India Fund for Cultural, Educational, and Scientific Cooperation, Department of Education, India"
+        }
+    ],
+    "sub_agencies": [
+        {
+            "subtier_agency_name": "Department of Education"
+        }
+    ]
+}

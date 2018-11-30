@@ -24,27 +24,45 @@ import json
 # 	json.dump(agency_results, outfile)
 
 # federal account spending
-account_results = []
-with open('data/federal_account_spending.json', 'r') as f:
+# account_results = []
+# with open('data/federal_account_spending.json', 'r') as f:
+# 	data = json.load(f)
+# 	data_results = data["results"]
+# 	print(len(data_results), '<--length')
+# 	for i in range(len(data_results)):
+# 		account_results.append({
+# 			"model": "cost_compare.Federal_Account_Raw",
+# 			"pk": i,
+# 			"fields": {
+# 				"name": data_results[i]["name"],
+# 				"account_id": data_results[i]["id"],
+# 				"account_number": data_results[i]["account_number"],
+# 				"code": data_results[i]["code"],
+# 				"amount": data_results[i]["amount"],
+# 				"category": data_results[i]["type"]
+# 			}
+# 			})
+
+# with open('data/federal_account_spending_raw_dump.json', 'w') as outfile:
+# 	json.dump(account_results, outfile)
+
+# list agencies
+la_results = []
+with open('data/list_agencies.json', 'r') as f:
 	data = json.load(f)
-	data_results = data["results"]
-	print(len(data_results), '<--length')
-	for i in range(len(data_results)):
-		account_results.append({
-			"model": "cost_compare.Federal_Account_Raw",
+	cfo_agencies = data["agencies"]["cfo_agencies"]
+	for i in range(len(cfo_agencies)):
+		la_results.append({
+			"model": "cost_compare.List_Agency_Raw",
 			"pk": i,
 			"fields": {
-				"name": data_results[i]["name"],
-				"account_id": data_results[i]["id"],
-				"account_number": data_results[i]["account_number"],
-				"code": data_results[i]["code"],
-				"amount": data_results[i]["amount"],
-				"category": data_results[i]["type"]
+				"cgac_code": cfo_agencies[i]["cgac_code"],
+				"name": cfo_agencies[i]["name"],
+				"toptier_agency_id": cfo_agencies[i]["toptier_agency_id"]
 			}
 			})
-
-with open('data/federal_account_spending_raw_dump.json', 'w') as outfile:
-	json.dump(account_results, outfile)
+	with open('data/list_agencies_raw_dump.json', 'w') as outfile:
+		json.dump(la_results, outfile)
 
 # toptier agency spending--no longer in use
 # results = []

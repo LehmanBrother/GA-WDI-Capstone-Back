@@ -1,0 +1,82 @@
+{
+    "agencies": [],
+    "federal_accounts": [
+        {
+            "federal_account_id": 4606,
+            "federal_account_name": "Administrative Costs, The Medicare Improvements for Patients and Providers Act, Social Security Administration"
+        },
+        {
+            "federal_account_id": 4607,
+            "federal_account_name": "Administrative Expenses, Children's Health Insurance Program, Social Security Administration"
+        },
+        {
+            "federal_account_id": 4609,
+            "federal_account_name": "Economic Recovery Payments - Recovery Act, Social Security Administration"
+        },
+        {
+            "federal_account_id": 4617,
+            "federal_account_name": "Federal Disability Insurance Trust Fund - Treasury Managed, Social Security Administration"
+        },
+        {
+            "federal_account_id": 4616,
+            "federal_account_name": "Federal Old-Age and Survivors Insurance Trust Fund - Treasury Managed, Social Security Administration"
+        },
+        {
+            "federal_account_id": 4608,
+            "federal_account_name": "Limitation on Administrative Expenses - Recovery Act, Social Security Administration"
+        },
+        {
+            "federal_account_id": 4603,
+            "federal_account_name": "Office of the Inspector General - Recovery Act, Social Security Administration"
+        },
+        {
+            "federal_account_id": 4601,
+            "federal_account_name": "Office of the Inspector General, Social Security Administration"
+        },
+        {
+            "federal_account_id": 4611,
+            "federal_account_name": "Payments for Credits Against Social Security Contributions, Social Security Administration"
+        },
+        {
+            "federal_account_id": 4615,
+            "federal_account_name": "Payments for Information Furnished by the Department of Health and Human Services, Social Security Administration"
+        },
+        {
+            "federal_account_id": 4610,
+            "federal_account_name": "Payments to Social Security Trust Funds Post-1956 Military Service Wage Credits, Social Security Administration"
+        },
+        {
+            "federal_account_id": 4604,
+            "federal_account_name": "Payments to Social Security Trust Funds, Social Security Administration"
+        },
+        {
+            "federal_account_id": 4613,
+            "federal_account_name": "Proceeds of Supplemental Security Income Checks Unnegotiated for 180 Days/Six Months, Pending Distribution"
+        },
+        {
+            "federal_account_id": 4618,
+            "federal_account_name": "Salaries and Expenses, Social Security Administration"
+        },
+        {
+            "federal_account_id": 4602,
+            "federal_account_name": "Special Benefits for Certain World War II Veterans, Social Security Administration"
+        },
+        {
+            "federal_account_id": 4612,
+            "federal_account_name": "State Supplemental Fees, Social Security Administration"
+        },
+        {
+            "federal_account_id": 4614,
+            "federal_account_name": "State Supplemental Security Income Payments, Social Security Administration"
+        },
+        {
+            "federal_account_id": 4605,
+            "federal_account_name": "Supplemental Security Income Program, Social Security Administration"
+        }
+    ],
+    "sub_agencies": [
+        {
+            "subtier_agency_name": "Social Security Administration"
+        }
+    ]
+}

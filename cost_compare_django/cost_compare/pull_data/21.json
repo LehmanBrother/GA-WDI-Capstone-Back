@@ -1,0 +1,329 @@
+{
+    "agencies": [],
+    "federal_accounts": [
+        {
+            "federal_account_id": 4280,
+            "federal_account_name": "Accounts Payable, Check Issue Underdrafts, State"
+        },
+        {
+            "federal_account_id": 4232,
+            "federal_account_name": "Acquisition, Operation, and Maintenance of Buildings Abroad, Special Foreign Currency Program, State"
+        },
+        {
+            "federal_account_id": 4244,
+            "federal_account_name": "American Sections, International Commissions, State"
+        },
+        {
+            "federal_account_id": 4281,
+            "federal_account_name": "American Studies Endowment Fund, State"
+        },
+        {
+            "federal_account_id": 4254,
+            "federal_account_name": "Andean Counterdrug Initiative, State"
+        },
+        {
+            "federal_account_id": 4251,
+            "federal_account_name": "Arrearage Payments, State"
+        },
+        {
+            "federal_account_id": 4274,
+            "federal_account_name": "Belgium Pension Claims Settlement Fund, State"
+        },
+        {
+            "federal_account_id": 4227,
+            "federal_account_name": "Buying Power Maintenance Account, State"
+        },
+        {
+            "federal_account_id": 4246,
+            "federal_account_name": "Capital Investment Fund - Recovery Act, Administration of Foreign Affairs, State"
+        },
+        {
+            "federal_account_id": 4215,
+            "federal_account_name": "Capital Investment Fund, State"
+        },
+        {
+            "federal_account_id": 4255,
+            "federal_account_name": "Center for Eastern-Western Dialogue Trust Fund, State"
+        },
+        {
+            "federal_account_id": 4287,
+            "federal_account_name": "Center for Middle Eastern-Western Dialogue Trust Fund, State"
+        },
+        {
+            "federal_account_id": 4223,
+            "federal_account_name": "Centralized Information Technology Modernization Program, State"
+        },
+        {
+            "federal_account_id": 4289,
+            "federal_account_name": "Conditional Gift Fund, General, State"
+        },
+        {
+            "federal_account_id": 4216,
+            "federal_account_name": "Conflict Stabilization Operations, State"
+        },
+        {
+            "federal_account_id": 4242,
+            "federal_account_name": "Construction, International Boundary and Water Commission, United States and Mexico, State"
+        },
+        {
+            "federal_account_id": 4243,
+            "federal_account_name": "Construction - Recovery Act, International Boundary and Water Commission, United States and Mexico, International Commissions, State"
+        },
+        {
+            "federal_account_id": 6279,
+            "federal_account_name": "Consular and Border Security Programs, Administration of Foreign Affairs, State"
+        },
+        {
+            "federal_account_id": 4248,
+            "federal_account_name": "Contributions for International Peacekeeping Activities, State"
+        },
+        {
+            "federal_account_id": 4250,
+            "federal_account_name": "Contributions to International Organizations, State"
+        },
+        {
+            "federal_account_id": 4247,
+            "federal_account_name": "Democracy Fund, State"
+        },
+        {
+            "federal_account_id": 4264,
+            "federal_account_name": "Deposit Fund, United Nations Compensation Commission Claims, State"
+        },
+        {
+            "federal_account_id": 4263,
+            "federal_account_name": "Deposit of Severance Reserves, State"
+        },
+        {
+            "federal_account_id": 4213,
+            "federal_account_name": "Diplomatic and Consular Programs - Recovery Act, Administration of Foreign Affairs, State"
+        },
+        {
+            "federal_account_id": 4214,
+            "federal_account_name": "Diplomatic and Consular Programs, State"
+        },
+        {
+            "federal_account_id": 4285,
+            "federal_account_name": "Eastern Europe Student Exchange Endowment Fund, State"
+        },
+        {
+            "federal_account_id": 4218,
+            "federal_account_name": "East-West Center, State"
+        },
+        {
+            "federal_account_id": 4220,
+            "federal_account_name": "Educational and Cultural Exchange Programs,State"
+        },
+        {
+            "federal_account_id": 4231,
+            "federal_account_name": "Embassy Security, Construction, and Maintenance, State"
+        },
+        {
+            "federal_account_id": 4225,
+            "federal_account_name": "Emergencies in the Diplomatic and Consular Service, State"
+        },
+        {
+            "federal_account_id": 4268,
+            "federal_account_name": "Employee and Employer Contributions, Foreign Government Social Security and Related Programs, State"
+        },
+        {
+            "federal_account_id": 4266,
+            "federal_account_name": "Employees' Payroll Allotment Account, United States Savings Bonds, State"
+        },
+        {
+            "federal_account_id": 4257,
+            "federal_account_name": "Fisherman's Protective Fund, Special Account, State"
+        },
+        {
+            "federal_account_id": 4258,
+            "federal_account_name": "Fishermen's Guaranty Fund, State"
+        },
+        {
+            "federal_account_id": 4261,
+            "federal_account_name": "Foreign Service National Defined Contributions Retirement Fund, State"
+        },
+        {
+            "federal_account_id": 4286,
+            "federal_account_name": "Foreign Service National Separation Liability Trust Fund, State"
+        },
+        {
+            "federal_account_id": 4283,
+            "federal_account_name": "Foreign Service Retirement and Disability Fund, State"
+        },
+        {
+            "federal_account_id": 4273,
+            "federal_account_name": "France Holocaust Deportation Claims Settlement Fund, State"
+        },
+        {
+            "federal_account_id": 4270,
+            "federal_account_name": "Funds of Bosnia Federation for Training and Equipment, State"
+        },
+        {
+            "federal_account_id": 4277,
+            "federal_account_name": "General Deposits, State"
+        },
+        {
+            "federal_account_id": 4240,
+            "federal_account_name": "Global Health Programs, State"
+        },
+        {
+            "federal_account_id": 4239,
+            "federal_account_name": "Global HIV/AIDS Initiative, State"
+        },
+        {
+            "federal_account_id": 4262,
+            "federal_account_name": "H-1B and L Fraud Prevention and Detection Account, State"
+        },
+        {
+            "federal_account_id": 4259,
+            "federal_account_name": "International Center, Washington, D. C., State"
+        },
+        {
+            "federal_account_id": 4249,
+            "federal_account_name": "International Conferences and Contingencies, State"
+        },
+        {
+            "federal_account_id": 4245,
+            "federal_account_name": "International Fisheries Commissions, State"
+        },
+        {
+            "federal_account_id": 4217,
+            "federal_account_name": "International Information Programs, State"
+        },
+        {
+            "federal_account_id": 4260,
+            "federal_account_name": "International Litigation Fund, State"
+        },
+        {
+            "federal_account_id": 4238,
+            "federal_account_name": "International Narcotics Control and Law Enforcement, State"
+        },
+        {
+            "federal_account_id": 4237,
+            "federal_account_name": "International Organizations and Programs, Funds Appropriated to the Presidend, State"
+        },
+        {
+            "federal_account_id": 4284,
+            "federal_account_name": "Israeli Arab Scholarship Program, State"
+        },
+        {
+            "federal_account_id": 4252,
+            "federal_account_name": "Migration and Refugee Assistance, State"
+        },
+        {
+            "federal_account_id": 4221,
+            "federal_account_name": "National Endowment for Democracy, State"
+        },
+        {
+            "federal_account_id": 4219,
+            "federal_account_name": "North/South Center, State"
+        },
+        {
+            "federal_account_id": 4230,
+            "federal_account_name": "Office of Inspector General - Recovery Act, Administration of Foreign Affairs, State"
+        },
+        {
+            "federal_account_id": 4229,
+            "federal_account_name": "Office of the Inspector General, State"
+        },
+        {
+            "federal_account_id": 4276,
+            "federal_account_name": "Other Federal Payroll Withholding, Allotments, State"
+        },
+        {
+            "federal_account_id": 4269,
+            "federal_account_name": "Payment of Unclaimed Moneys, State (T)"
+        },
+        {
+            "federal_account_id": 4226,
+            "federal_account_name": "Payment to the American Institute in Taiwan, State"
+        },
+        {
+            "federal_account_id": 4228,
+            "federal_account_name": "Payment to the Asia Foundation, State"
+        },
+        {
+            "federal_account_id": 4233,
+            "federal_account_name": "Payment to the Foreign Service Retirement and Disability Fund, State"
+        },
+        {
+            "federal_account_id": 4267,
+            "federal_account_name": "Proceeds from Estates of American Citizens Who Die Abroad, State"
+        },
+        {
+            "federal_account_id": 4224,
+            "federal_account_name": "Protection of Foreign Missions and Officials, State"
+        },
+        {
+            "federal_account_id": 4235,
+            "federal_account_name": "Repatriation Loans, Liquidating Account, State"
+        },
+        {
+            "federal_account_id": 4236,
+            "federal_account_name": "Repatriation Loans, Program Account, State"
+        },
+        {
+            "federal_account_id": 4234,
+            "federal_account_name": "Representation Allowances, State"
+        },
+        {
+            "federal_account_id": 4265,
+            "federal_account_name": "Resolution of Iraqi Claims, State"
+        },
+        {
+            "federal_account_id": 4222,
+            "federal_account_name": "Russian Far East Technical Assistance Center, State"
+        },
+        {
+            "federal_account_id": 4241,
+            "federal_account_name": "Salaries and Expenses, International Boundary and Water Commission, United States and Mexico, State"
+        },
+        {
+            "federal_account_id": 4212,
+            "federal_account_name": "Salaries and Expenses, State"
+        },
+        {
+            "federal_account_id": 4272,
+            "federal_account_name": "Saudi Arabian Critical Infrastructure Protection Fund, State"
+        },
+        {
+            "federal_account_id": 4271,
+            "federal_account_name": "Settlement of Claims Against Libya, State"
+        },
+        {
+            "federal_account_id": 4279,
+            "federal_account_name": "Suspense Deposits Abroad, State"
+        },
+        {
+            "federal_account_id": 4282,
+            "federal_account_name": "Trust Funds, State"
+        },
+        {
+            "federal_account_id": 4288,
+            "federal_account_name": "Unconditional Gift Fund, State"
+        },
+        {
+            "federal_account_id": 4278,
+            "federal_account_name": "Unearned Passport and Application Fees, State (T)"
+        },
+        {
+            "federal_account_id": 4253,
+            "federal_account_name": "United States Bilateral Science and Technology Agreements, State"
+        },
+        {
+            "federal_account_id": 4275,
+            "federal_account_name": "Withheld State and Local Taxes, State"
+        },
+        {
+            "federal_account_id": 4256,
+            "federal_account_name": "Working Capital Fund, State"
+        }
+    ],
+    "sub_agencies": [
+        {
+            "subtier_agency_name": "Department of State"
+        },
+        {
+            "subtier_agency_name": "International Boundary and Water Commission: U.S.-Mexico"
+        }
+    ]
+}

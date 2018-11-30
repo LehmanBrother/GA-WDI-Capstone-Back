@@ -1,0 +1,416 @@
+{
+    "agencies": [],
+    "federal_accounts": [
+        {
+            "federal_account_id": 5813,
+            "federal_account_name": "Advanced Research Projects Agency-Energy, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5808,
+            "federal_account_name": "Advanced Technology Vehicle Manufacturing Loan Program-Recovery Act, Energy"
+        },
+        {
+            "federal_account_id": 5807,
+            "federal_account_name": "Advanced Technology Vehicles Manufacturing Loan Program Account, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5859,
+            "federal_account_name": "Advances for Cooperative Work, Departmental Operations, Energy"
+        },
+        {
+            "federal_account_id": 5851,
+            "federal_account_name": "Advances for Cosponsored Projects, Energy"
+        },
+        {
+            "federal_account_id": 5857,
+            "federal_account_name": "Advances Without Orders from Non-Federal Sources"
+        },
+        {
+            "federal_account_id": 5827,
+            "federal_account_name": "Alternative Fuels Production, Energy"
+        },
+        {
+            "federal_account_id": 5817,
+            "federal_account_name": "Bonneville Power Administration Fund, Power Marketing Administration, Energy"
+        },
+        {
+            "federal_account_id": 5820,
+            "federal_account_name": "Bonneville Power Administration Fund - Recovery Act, Power Marketing Administration, Energy"
+        },
+        {
+            "federal_account_id": 5799,
+            "federal_account_name": "Cerro Grande Fire Activities, Energy"
+        },
+        {
+            "federal_account_id": 5784,
+            "federal_account_name": "Clean Coal Technology, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5821,
+            "federal_account_name": "Colorado River Basins Power Marketing Fund, Western Area Power Administration, Power Marketing Administration, Energy"
+        },
+        {
+            "federal_account_id": 5823,
+            "federal_account_name": "Construction, Rehabilitation, Operation, and Maintenance, Western Area Power Administration, Power Marketing Administration, Energy"
+        },
+        {
+            "federal_account_id": 5844,
+            "federal_account_name": "Construction, Rehabilitation, Operation, and Maintenance, Western Area Power Administration-Recovery Act, Environmental and Other Defense Activities, Energy"
+        },
+        {
+            "federal_account_id": 5843,
+            "federal_account_name": "Continuing Fund, Southeastern Power Administration, Power Marketing Administration, Energy"
+        },
+        {
+            "federal_account_id": 5842,
+            "federal_account_name": "Continuing Fund, Southwestern Power Administration, Power Marketing Administration, Energy"
+        },
+        {
+            "federal_account_id": 6281,
+            "federal_account_name": "Cybersecurity, Energy Security, and Emergency Response, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5793,
+            "federal_account_name": "Defense Environmental Cleanup, Environmental and Other Defense Activities, Energy"
+        },
+        {
+            "federal_account_id": 5794,
+            "federal_account_name": "Defense Environmental Cleanup-Recovery Act, Environmental and Other Defense Activities, Energy"
+        },
+        {
+            "federal_account_id": 5788,
+            "federal_account_name": "Defense Environmental Restoration and Waste Management, Energy"
+        },
+        {
+            "federal_account_id": 5791,
+            "federal_account_name": "Defense Environmental Services, Energy"
+        },
+        {
+            "federal_account_id": 5798,
+            "federal_account_name": "Defense Nuclear Nonproliferation, National Nuclear Security Administration, Energy"
+        },
+        {
+            "federal_account_id": 5790,
+            "federal_account_name": "Defense Nuclear Waste Disposal, Environmental and Other Defense Activities, Energy"
+        },
+        {
+            "federal_account_id": 5830,
+            "federal_account_name": "Departmental Administration, Energy"
+        },
+        {
+            "federal_account_id": 5781,
+            "federal_account_name": "Departmental Administration, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5814,
+            "federal_account_name": "Departmental Administration - Recovery Act, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5775,
+            "federal_account_name": "Economic Regulation, Energy"
+        },
+        {
+            "federal_account_id": 5809,
+            "federal_account_name": "Electricity Delivery and Energy Reliability-Recovery Act, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5803,
+            "federal_account_name": "Electricity Delivery, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5836,
+            "federal_account_name": "Elk Hills School Lands Fund, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5824,
+            "federal_account_name": "Emergency Fund, Western Area Power Administration, Power Marketing Administration, Energy"
+        },
+        {
+            "federal_account_id": 5783,
+            "federal_account_name": "Emergency Preparedness, Energy"
+        },
+        {
+            "federal_account_id": 5846,
+            "federal_account_name": "Employees' Payroll Allotment Account, United States Savings Bonds, Energy"
+        },
+        {
+            "federal_account_id": 5773,
+            "federal_account_name": "Energy Conservation, Energy"
+        },
+        {
+            "federal_account_id": 5806,
+            "federal_account_name": "Energy Efficiency and Renewable Energy, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5810,
+            "federal_account_name": "Energy Efficiency and Renewable Energy-Recovery Act, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5774,
+            "federal_account_name": "Energy Information Administration, Energy"
+        },
+        {
+            "federal_account_id": 5841,
+            "federal_account_name": "Energy Security and Infrastructure Modernization Fund"
+        },
+        {
+            "federal_account_id": 5779,
+            "federal_account_name": "Energy Supply, Energy"
+        },
+        {
+            "federal_account_id": 5812,
+            "federal_account_name": "Energy Transformation Acceleration Fund - Recovery Act, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5818,
+            "federal_account_name": "Expenses, Isotope Production and Distribution Program Fund, Energy"
+        },
+        {
+            "federal_account_id": 5785,
+            "federal_account_name": "Expenses, Office of the Inspector General, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5826,
+            "federal_account_name": "Falcon and Amistad Operating and Maintenance Fund, Energy"
+        },
+        {
+            "federal_account_id": 5831,
+            "federal_account_name": "Federal Energy Regulatory Commission, Energy"
+        },
+        {
+            "federal_account_id": 5800,
+            "federal_account_name": "Federal Salaries and Expenses, National Nuclear Security Administration, Energy"
+        },
+        {
+            "federal_account_id": 5855,
+            "federal_account_name": "Fees Paid Under Protest (FERC), Energy"
+        },
+        {
+            "federal_account_id": 5856,
+            "federal_account_name": "FERC Market Manipulation Disgorged Monies, Energy"
+        },
+        {
+            "federal_account_id": 5772,
+            "federal_account_name": "Fossil Energy Construction, Energy"
+        },
+        {
+            "federal_account_id": 5771,
+            "federal_account_name": "Fossil Energy Research and Development, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5769,
+            "federal_account_name": "Fossil Energy Research and Development-Recovery Act, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5853,
+            "federal_account_name": "Funds Received from Excess Exception Relief, Energy"
+        },
+        {
+            "federal_account_id": 5766,
+            "federal_account_name": "Geothermal Loan Guarantee and Interest Assistance Program, Geothermal Resources Development Fund, Energy"
+        },
+        {
+            "federal_account_id": 5860,
+            "federal_account_name": "Gifts and Donations, Energy"
+        },
+        {
+            "federal_account_id": 5805,
+            "federal_account_name": "Legacy Management, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5854,
+            "federal_account_name": "Naval Patroleum Reserve Fund, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5777,
+            "federal_account_name": "Naval Petroleum and Oil Shale Reserves, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5801,
+            "federal_account_name": "Naval Reactors, National Nuclear Security Administration, Energy"
+        },
+        {
+            "federal_account_id": 5802,
+            "federal_account_name": "Non-Defense Environmental Cleanup, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5811,
+            "federal_account_name": "Non-Defense Environmental Cleanup-Recovery Act, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5792,
+            "federal_account_name": "Non-Defense Site Acceleration Completion, Energy"
+        },
+        {
+            "federal_account_id": 5835,
+            "federal_account_name": "Northeast Home Heating Oil Reserve, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5804,
+            "federal_account_name": "Nuclear Energy, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5829,
+            "federal_account_name": "Nuclear Waste Disposal Fund, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 6280,
+            "federal_account_name": "Office of Indian Energy Policy and Programs, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5786,
+            "federal_account_name": "Office of the Inspector General - Recovery Act, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5797,
+            "federal_account_name": "Operation and Maintenance, Alaska Power Administration, Power Marketing Administration, Energy"
+        },
+        {
+            "federal_account_id": 5795,
+            "federal_account_name": "Operation and Maintenance, Southeastern Power Administration, Power Marketing Administration, Energy"
+        },
+        {
+            "federal_account_id": 5796,
+            "federal_account_name": "Operation and Maintenance, Southwestern Power Administration, Power Marketing Administration, Energy"
+        },
+        {
+            "federal_account_id": 5789,
+            "federal_account_name": "Other Defense Activities, Environmental and Other Defense Activities, Energy"
+        },
+        {
+            "federal_account_id": 5815,
+            "federal_account_name": "Other Defense Activities - Recovery Act, Environmental and Other Defense Activities, Energy"
+        },
+        {
+            "federal_account_id": 5850,
+            "federal_account_name": "Other Federal Payroll Withholding, Allotments, Energy"
+        },
+        {
+            "federal_account_id": 5837,
+            "federal_account_name": "Pajarito Plateau Homesteaders Compensation Fund, Energy"
+        },
+        {
+            "federal_account_id": 5852,
+            "federal_account_name": "Payments by Alleged Violators of Department of Energy Regulations, Energy"
+        },
+        {
+            "federal_account_id": 5825,
+            "federal_account_name": "Payment to States Under Federal Power Act, Energy"
+        },
+        {
+            "federal_account_id": 5770,
+            "federal_account_name": "Salaries and Expenses, Federal Energy Regulatory Commission, Energy"
+        },
+        {
+            "federal_account_id": 5839,
+            "federal_account_name": "Sales of Uranium, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5778,
+            "federal_account_name": "Science, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5780,
+            "federal_account_name": "Science-Recovery Act, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5858,
+            "federal_account_name": "Small Escrow Amounts"
+        },
+        {
+            "federal_account_id": 5834,
+            "federal_account_name": "SPR Decommissioning Fund, Energy"
+        },
+        {
+            "federal_account_id": 5833,
+            "federal_account_name": "SPR Operating Fund, Energy"
+        },
+        {
+            "federal_account_id": 5782,
+            "federal_account_name": "SPR Petroleum Account, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5776,
+            "federal_account_name": "Strategic Petroleum Reserve, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5767,
+            "federal_account_name": "Title 17 Innovative Technology Loan Guarantee Program, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5768,
+            "federal_account_name": "Title 17-Innovative Technology Loan Guarantee Program-Recovery Act, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5816,
+            "federal_account_name": "Tribal Energy Loan Guarantee Program, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5838,
+            "federal_account_name": "Ultra-Deepwater and Unconventional Natural Gas and Other Petroleum Research Fund, Energy"
+        },
+        {
+            "federal_account_id": 5847,
+            "federal_account_name": "Unclaimed Money Due Creditors of Contractors with the United States Under Cost-Plus-A-Fixed-Fee Contracts, Departmental Operations, Energy"
+        },
+        {
+            "federal_account_id": 5832,
+            "federal_account_name": "Uranium Enrichment Decontamination and Decommissioning Fund, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5845,
+            "federal_account_name": "Uranium Enrichment Decontamination and Decommissioning Fund-Recovery Act, Energy Programs, Energy"
+        },
+        {
+            "federal_account_id": 5828,
+            "federal_account_name": "Uranium Supply and Enrichment Activities, Energy"
+        },
+        {
+            "federal_account_id": 5848,
+            "federal_account_name": "WAPA Passthrough Collections for Non-Federal Power, Energy"
+        },
+        {
+            "federal_account_id": 5787,
+            "federal_account_name": "Weapons Activities, National Nuclear Security Administration, Energy"
+        },
+        {
+            "federal_account_id": 5819,
+            "federal_account_name": "Western Area Power Administration, Borrowing Authority - Recovery Act, Energy"
+        },
+        {
+            "federal_account_id": 5840,
+            "federal_account_name": "White River Minimum Flow, Southwestern Power Administration, Power Marketing Administration, Energy"
+        },
+        {
+            "federal_account_id": 5849,
+            "federal_account_name": "Withheld State and Local Taxes, Energy"
+        },
+        {
+            "federal_account_id": 5822,
+            "federal_account_name": "Working Capital Fund, Departmental Administration, Energy"
+        }
+    ],
+    "sub_agencies": [
+        {
+            "subtier_agency_name": "Assistant Secretary for Conservation and Renewable Energy"
+        },
+        {
+            "subtier_agency_name": "Assistant Secretary for Defense Programs"
+        },
+        {
+            "subtier_agency_name": "Assistant Secretary for Fossil Energy"
+        },
+        {
+            "subtier_agency_name": "Department of Energy"
+        },
+        {
+            "subtier_agency_name": "Federal Energy Regulatory Commission"
+        },
+        {
+            "subtier_agency_name": "Federal Energy Regulatory Commission"
+        },
+        {
+            "subtier_agency_name": "Office of Administration and Human Resources Management"
+        }
+    ]
+}

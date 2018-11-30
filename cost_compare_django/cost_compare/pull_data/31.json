@@ -1,0 +1,26 @@
+{
+    "agencies": [],
+    "federal_accounts": [
+        {
+            "federal_account_id": 4624,
+            "federal_account_name": "Nuclear Facilities Fees Fund, Nuclear Regulatory Commission"
+        },
+        {
+            "federal_account_id": 4625,
+            "federal_account_name": "Nuclear Facility Fees in Advance of Final Determination of Fees, Nuclear Regulatory Commission"
+        },
+        {
+            "federal_account_id": 4623,
+            "federal_account_name": "Office of Inspector General, Nuclear Regulatory Commission"
+        },
+        {
+            "federal_account_id": 4622,
+            "federal_account_name": "Salaries and Expenses, Nuclear Regulatory Commission"
+        }
+    ],
+    "sub_agencies": [
+        {
+            "subtier_agency_name": "Nuclear Regulatory Commission"
+        }
+    ]
+}

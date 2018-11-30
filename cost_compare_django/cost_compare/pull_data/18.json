@@ -1,0 +1,90 @@
+{
+    "agencies": [],
+    "federal_accounts": [],
+    "sub_agencies": [
+        {
+            "subtier_agency_name": "Administrative Review Board"
+        },
+        {
+            "subtier_agency_name": "Benefits Review Board"
+        },
+        {
+            "subtier_agency_name": "Bureau of International Labor Affairs"
+        },
+        {
+            "subtier_agency_name": "Bureau of Labor Statistics"
+        },
+        {
+            "subtier_agency_name": "Department of Labor"
+        },
+        {
+            "subtier_agency_name": "Employee Benefits Security Administration"
+        },
+        {
+            "subtier_agency_name": "Employment and Training Administration"
+        },
+        {
+            "subtier_agency_name": "Employment Standards Administration"
+        },
+        {
+            "subtier_agency_name": "Immediate Office of the Secretary"
+        },
+        {
+            "subtier_agency_name": "Mine Safety and Health Administration"
+        },
+        {
+            "subtier_agency_name": "Occupational Safety and Health Administration"
+        },
+        {
+            "subtier_agency_name": "Office of Administrative Law Judges"
+        },
+        {
+            "subtier_agency_name": "Office of Chief Financial Officer"
+        },
+        {
+            "subtier_agency_name": "Office of Federal Contract Compliance Program"
+        },
+        {
+            "subtier_agency_name": "Office of Information and Public Affairs"
+        },
+        {
+            "subtier_agency_name": "Office of Inspector General"
+        },
+        {
+            "subtier_agency_name": "Office of Job Corps"
+        },
+        {
+            "subtier_agency_name": "Office of Labor-Management Standards"
+        },
+        {
+            "subtier_agency_name": "Office of the Assistant Secretary for Administration and Management"
+        },
+        {
+            "subtier_agency_name": "Office of the Assistant Secretary for Policy"
+        },
+        {
+            "subtier_agency_name": "Office of the Deputy Under Secretary for Congressional Affairs"
+        },
+        {
+            "subtier_agency_name": "Office of the Secretary"
+        },
+        {
+            "subtier_agency_name": "Office of the Solicitor"
+        },
+        {
+            "subtier_agency_name": "Office of Workers Compensation Program"
+        },
+        {
+            "subtier_agency_name": "President's Committee on Employment of the Handicapped"
+        },
+        {
+            "subtier_agency_name": "Veterans Employment and Training Services"
+        },
+        {
+            "subtier_agency_name": "Wage and Hour Division"
+        },
+        {
+            "subtier_agency_name": "Women's Bureau"
+        }
+    ]
+}

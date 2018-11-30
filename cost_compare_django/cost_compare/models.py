@@ -49,3 +49,19 @@ class Federal_Account_Raw(models.Model):
 
 	def __str__(self):
 		return self.name
+
+class List_Agency_Raw(models.Model):
+	cgac_code = models.CharField(max_length=4)
+	name = models.CharField(max_length=256)
+	toptier_agency_id = models.IntegerField(default=0)
+
+	def __str__(self):
+		return self.name
+
+class Account_Key(models.Model):
+	federal_account_id = models.IntegerField(default=0)
+	federal_account_name = models.CharField(max_length=256)
+	agency_id = models.IntegerField(default=0)
+
+	def __str__(self):
+		return self.federal_account_name

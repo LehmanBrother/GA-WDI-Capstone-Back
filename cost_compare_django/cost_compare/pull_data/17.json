@@ -1,0 +1,412 @@
+{
+    "agencies": [],
+    "federal_accounts": [
+        {
+            "federal_account_id": 3997,
+            "federal_account_name": "Administrative Expenses, Radiation Exposure Compensation, Justice"
+        },
+        {
+            "federal_account_id": 4020,
+            "federal_account_name": "Administrative Review and Appeals, General Administration, Justice"
+        },
+        {
+            "federal_account_id": 4059,
+            "federal_account_name": "Alien Property Fund, World War II (T)"
+        },
+        {
+            "federal_account_id": 4050,
+            "federal_account_name": "Assets Forfeiture Fund, Justice"
+        },
+        {
+            "federal_account_id": 4052,
+            "federal_account_name": "Buildings and Facilities, Federal Prison System, Justice"
+        },
+        {
+            "federal_account_id": 4037,
+            "federal_account_name": "Buildings and Facilities, Federal Prison System, Justice"
+        },
+        {
+            "federal_account_id": 4062,
+            "federal_account_name": "CDR-E Account, U.S. Attorneys, Justice"
+        },
+        {
+            "federal_account_id": 4017,
+            "federal_account_name": "Civil Liberties Public Education Fund, Justice"
+        },
+        {
+            "federal_account_id": 4074,
+            "federal_account_name": "Commissary Funds, Federal Prisons, Justice"
+        },
+        {
+            "federal_account_id": 4027,
+            "federal_account_name": "Community Oriented Policing Services, Office of Justice Programs, Justice"
+        },
+        {
+            "federal_account_id": 4030,
+            "federal_account_name": "Community Oriented Policing Services - Recovery Act, Office of Justice Programs, Justice"
+        },
+        {
+            "federal_account_id": 4036,
+            "federal_account_name": "Construction, Bureau of Alcohol, Tobacco, Firearms and Explosives, Justice"
+        },
+        {
+            "federal_account_id": 4043,
+            "federal_account_name": "Construction, Drug Enforcement Administration, Justice"
+        },
+        {
+            "federal_account_id": 4008,
+            "federal_account_name": "Construction, Federal Bureau of Investigation, Justice"
+        },
+        {
+            "federal_account_id": 4002,
+            "federal_account_name": "Construction, United States Marshals Service, Justice"
+        },
+        {
+            "federal_account_id": 4000,
+            "federal_account_name": "Counterterrorism Fund, General Administration, Justice"
+        },
+        {
+            "federal_account_id": 4067,
+            "federal_account_name": "Court Services and Offender Supervision Funding, Justice"
+        },
+        {
+            "federal_account_id": 4049,
+            "federal_account_name": "Crime Victims Fund, Justice"
+        },
+        {
+            "federal_account_id": 4066,
+            "federal_account_name": "CVC Gift Account, Office for Victims of Crime, Justice"
+        },
+        {
+            "federal_account_id": 4004,
+            "federal_account_name": "Detention Trustee, General Administration, Justice"
+        },
+        {
+            "federal_account_id": 4053,
+            "federal_account_name": "Diversion Control Fee Account, Justice"
+        },
+        {
+            "federal_account_id": 4055,
+            "federal_account_name": "Domestic Trafficking Victims' Fund, Office of Justice Programs, Justice"
+        },
+        {
+            "federal_account_id": 4057,
+            "federal_account_name": "Employees' Payroll Allotment Account, United States Savings Bonds, General Legal Activities"
+        },
+        {
+            "federal_account_id": 4039,
+            "federal_account_name": "Federal Prisoner Detention, Justice"
+        },
+        {
+            "federal_account_id": 4009,
+            "federal_account_name": "Fees and Expenses of Witnesses, Justice"
+        },
+        {
+            "federal_account_id": 4070,
+            "federal_account_name": "Fees and Other Collections, United States Marshals, Justice"
+        },
+        {
+            "federal_account_id": 4060,
+            "federal_account_name": "Funds of Federal Prisoners (T), Justice"
+        },
+        {
+            "federal_account_id": 4075,
+            "federal_account_name": "Gang Resistance Educations and Training Trust Fund, Alcohol, Tobacco, Firearms, and Explosives, Department of Justice"
+        },
+        {
+            "federal_account_id": 4073,
+            "federal_account_name": "Gifts, Crime Victims Fund, Office of Justice Programs, Justice"
+        },
+        {
+            "federal_account_id": 4015,
+            "federal_account_name": "Independent Counsel, Justice"
+        },
+        {
+            "federal_account_id": 4012,
+            "federal_account_name": "Interagency Crime and Drug Enforcement, Interagency Law Enforcement, Justice"
+        },
+        {
+            "federal_account_id": 4072,
+            "federal_account_name": "Justice Gift Fund, Justice"
+        },
+        {
+            "federal_account_id": 4003,
+            "federal_account_name": "Justice Information Sharing Technology, General Administration, Justice"
+        },
+        {
+            "federal_account_id": 4048,
+            "federal_account_name": "Justice Prisoner and Alien Transportation System Fund, United States Marshals Service, Justice"
+        },
+        {
+            "federal_account_id": 4026,
+            "federal_account_name": "Juvenile Justice Programs, Office of Justice Programs, Justice"
+        },
+        {
+            "federal_account_id": 4005,
+            "federal_account_name": "Legal Activities Office Automation, General Administration, Justice"
+        },
+        {
+            "federal_account_id": 4044,
+            "federal_account_name": "National Drug Intelligence Center, General Administration, Justice"
+        },
+        {
+            "federal_account_id": 4038,
+            "federal_account_name": "National Institute of Corrections, Federal Prison System, Justice"
+        },
+        {
+            "federal_account_id": 4016,
+            "federal_account_name": "Office of Inspector General, Justice"
+        },
+        {
+            "federal_account_id": 4080,
+            "federal_account_name": "Office of Justice Programs, Community Oriented Policing Services, Violent Crime Reduction Programs, Justice"
+        },
+        {
+            "federal_account_id": 4078,
+            "federal_account_name": "Office of Justice Programs, Justice Assistance, Violent Crime Reduction Programs, Justice"
+        },
+        {
+            "federal_account_id": 4014,
+            "federal_account_name": "Office of the Inspector General - Recovery Act, General Administration, Justice"
+        },
+        {
+            "federal_account_id": 4064,
+            "federal_account_name": "Other Federal Payroll Withholding, Allotments, General Legal Activities"
+        },
+        {
+            "federal_account_id": 4079,
+            "federal_account_name": "Ounce of Prevention Council Trust Fund, Office of Justice Programs, Justice"
+        },
+        {
+            "federal_account_id": 3996,
+            "federal_account_name": "Payment of Vietnam and U.S.S. Pueblo Prisoner of War Claims, Foreign Claims Settlement Commission, Justice"
+        },
+        {
+            "federal_account_id": 4018,
+            "federal_account_name": "Payment to the Radiation Exposure Compensation Trust Fund, Justice"
+        },
+        {
+            "federal_account_id": 4046,
+            "federal_account_name": "Prison Industries Fund, Justice"
+        },
+        {
+            "federal_account_id": 4024,
+            "federal_account_name": "Public Safety Officers Benefits, Office of Justice Programs, Justice"
+        },
+        {
+            "federal_account_id": 4071,
+            "federal_account_name": "Radiation Exposure Compensation Trust Fund, Justice"
+        },
+        {
+            "federal_account_id": 4022,
+            "federal_account_name": "Research, Evaluation, and Statistics, Office of Justice Programs, Justice"
+        },
+        {
+            "federal_account_id": 4010,
+            "federal_account_name": "Salaries and Expenses, Antitrust Division, Justice"
+        },
+        {
+            "federal_account_id": 4035,
+            "federal_account_name": "Salaries and Expenses, Bureau of Alcohol, Tobacco, Firearms and Explosives, Justice"
+        },
+        {
+            "federal_account_id": 4033,
+            "federal_account_name": "Salaries and Expenses, Community Relations Service, Justice"
+        },
+        {
+            "federal_account_id": 4042,
+            "federal_account_name": "Salaries and Expenses, Drug Enforcement Administration"
+        },
+        {
+            "federal_account_id": 4007,
+            "federal_account_name": "Salaries and Expenses, Federal Bureau of Investigation"
+        },
+        {
+            "federal_account_id": 4040,
+            "federal_account_name": "Salaries and Expenses, Federal Prison System, Justice"
+        },
+        {
+            "federal_account_id": 3995,
+            "federal_account_name": "Salaries and Expenses, Foreign Claims Settlement Commission, Justice"
+        },
+        {
+            "federal_account_id": 3999,
+            "federal_account_name": "Salaries and Expenses, General Administration, Justice"
+        },
+        {
+            "federal_account_id": 3998,
+            "federal_account_name": "Salaries and Expenses, General Legal Activities, Justice"
+        },
+        {
+            "federal_account_id": 4045,
+            "federal_account_name": "Salaries and Expenses, National Security Division, Justice"
+        },
+        {
+            "federal_account_id": 4031,
+            "federal_account_name": "Salaries and Expenses, Office of Justice Programs, Justice"
+        },
+        {
+            "federal_account_id": 4034,
+            "federal_account_name": "Salaries and Expenses - Recovery Act, Bureau of Alcohol, Tobacco, Firearms and Explosives, Justice"
+        },
+        {
+            "federal_account_id": 4032,
+            "federal_account_name": "Salaries and Expenses - Recovery Act, Office of Justice Programs, Justice"
+        },
+        {
+            "federal_account_id": 4011,
+            "federal_account_name": "Salaries and Expenses, United States Attorneys, Justice"
+        },
+        {
+            "federal_account_id": 4013,
+            "federal_account_name": "Salaries and Expenses, United States Marshals Service, Justice"
+        },
+        {
+            "federal_account_id": 4041,
+            "federal_account_name": "Salaries and Expenses, United States Parole Commission, Justice"
+        },
+        {
+            "federal_account_id": 4068,
+            "federal_account_name": "Seized Assets Fund, Justice"
+        },
+        {
+            "federal_account_id": 4021,
+            "federal_account_name": "September 11th Victim Compensation, General Legal Activities, Justice"
+        },
+        {
+            "federal_account_id": 4054,
+            "federal_account_name": "September 11th Victim Compensation, General Legal Activities, Justice"
+        },
+        {
+            "federal_account_id": 4065,
+            "federal_account_name": "Small Escrow Amounts, United States Attorneys, Justice"
+        },
+        {
+            "federal_account_id": 4025,
+            "federal_account_name": "State and Local Law Enforcement Assistance, Office of Justice Programs, Office of Justice Programs, Justice"
+        },
+        {
+            "federal_account_id": 4023,
+            "federal_account_name": "State and Local Law Enforcement Assistance - Recovery Act, Office of Justice Programs, Justice"
+        },
+        {
+            "federal_account_id": 4063,
+            "federal_account_name": "State Taxes Withheld, ATF, Department of Justice"
+        },
+        {
+            "federal_account_id": 4069,
+            "federal_account_name": "Suspense, Office of Justice Programs"
+        },
+        {
+            "federal_account_id": 4001,
+            "federal_account_name": "Tactical Law Enforcement Wireless Communications, General Administration, Justice"
+        },
+        {
+            "federal_account_id": 4051,
+            "federal_account_name": "United States Trustee System Fund, Justice"
+        },
+        {
+            "federal_account_id": 4056,
+            "federal_account_name": "United States Victims of State Sponsored Terrorism Fund, General Legal Activities, Justice"
+        },
+        {
+            "federal_account_id": 4061,
+            "federal_account_name": "USAO/Artemis Settlement Account, U.S. Attorneys, Justice"
+        },
+        {
+            "federal_account_id": 4006,
+            "federal_account_name": "Victims Compensation Fund, General Legal Activities, Justice"
+        },
+        {
+            "federal_account_id": 4028,
+            "federal_account_name": "Violence Against Women Prevention and Prosecution Programs, Office of Justice Programs, Justice"
+        },
+        {
+            "federal_account_id": 4029,
+            "federal_account_name": "Violence Against Women Prevention and Prosecution Programs - Recovery Act, Office of Justice Programs, Justice"
+        },
+        {
+            "federal_account_id": 4077,
+            "federal_account_name": "Violent Crime Reduction Fund, Justice"
+        },
+        {
+            "federal_account_id": 4087,
+            "federal_account_name": "Violent Crime Reduction Programs, Administrative Review and Appeals, General Administration, Justice"
+        },
+        {
+            "federal_account_id": 4084,
+            "federal_account_name": "Violent Crime Reduction Programs, Drug Enforcement Administration, Justice"
+        },
+        {
+            "federal_account_id": 4086,
+            "federal_account_name": "Violent Crime Reduction Programs, Federal Bureau of Investigation, Justice"
+        },
+        {
+            "federal_account_id": 4083,
+            "federal_account_name": "Violent Crime Reduction Programs, Federal Prison System, Justice"
+        },
+        {
+            "federal_account_id": 4081,
+            "federal_account_name": "Violent Crime Reduction Programs, General Legal Activities, Justice"
+        },
+        {
+            "federal_account_id": 4082,
+            "federal_account_name": "Violent Crime Reduction Programs, United States Attorneys, Justice"
+        },
+        {
+            "federal_account_id": 4085,
+            "federal_account_name": "Violent Crime Reduction Programs, United States Marshals Service, Justice"
+        },
+        {
+            "federal_account_id": 4076,
+            "federal_account_name": "Violent Crime Reduction Trust Fund, Alcohol, Tobacco, Firearms, and Explosives, Department of Justice"
+        },
+        {
+            "federal_account_id": 4058,
+            "federal_account_name": "War Claims Fund, Foreign Claims Settlement Commission (T), Justice"
+        },
+        {
+            "federal_account_id": 4019,
+            "federal_account_name": "Weed and Seed Program Fund, Justice"
+        },
+        {
+            "federal_account_id": 4047,
+            "federal_account_name": "Working Capital Fund, Justice"
+        }
+    ],
+    "sub_agencies": [
+        {
+            "subtier_agency_name": "Bureau of Alcohol, Tobacco, Firearms and Explosives Acquisition and Property Management Division"
+        },
+        {
+            "subtier_agency_name": "Department of Justice"
+        },
+        {
+            "subtier_agency_name": "Drug Enforcement Administration"
+        },
+        {
+            "subtier_agency_name": "Executive Office for U.S. Attorneys and the Offices of U.S. Attorneys"
+        },
+        {
+            "subtier_agency_name": "Federal Bureau of Investigation"
+        },
+        {
+            "subtier_agency_name": "Federal Prison Industries / Unicor"
+        },
+        {
+            "subtier_agency_name": "Federal Prison System / Bureau of Prisons"
+        },
+        {
+            "subtier_agency_name": "Office of Justice Programs"
+        },
+        {
+            "subtier_agency_name": "Office of the Inspector General"
+        },
+        {
+            "subtier_agency_name": "Offices, Boards and Divisions"
+        },
+        {
+            "subtier_agency_name": "U.S. Marshals Service"
+        }
+    ]
+}
