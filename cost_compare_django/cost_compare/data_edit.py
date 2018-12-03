@@ -1,31 +1,30 @@
 import json
 
 # agency spending
-# agency_results = []
-# with open('data/agency_spending.json', 'r') as f:
-# 	data = json.load(f)
-# 	data_results = data["results"]
-# 	print(len(data_results), '<--length')
-# 	for i in range(len(data_results)):
-# 		agency_results.append({
-# 			"model": "cost_compare.Agency_Raw",
-# 			"pk": i,
-# 			"fields": {
-# 				"name": data_results[i]["name"],
-# 				"agency_id": data_results[i]["id"],
-# 				"amount": data_results[i]["amount"],
-# 				"code": data_results[i]["code"],
-# 				"category": data_results[i]["type"]
-# 			}
-# 			})
-# 	print(agency_results, '<--results')
+agency_results = []
+with open('pull_data/processed/agency_spending.json', 'r') as f:
+	data = json.load(f)
+	data_results = data["results"]
+	print(len(data_results), '<--length')
+	for i in range(len(data_results)):
+		agency_results.append({
+			"model": "cost_compare.Agency_Raw",
+			"pk": i,
+			"fields": {
+				"name": data_results[i]["name"],
+				"agency_id": data_results[i]["id"],
+				"amount": data_results[i]["amount"],
+				"code": data_results[i]["code"],
+				"category": data_results[i]["type"]
+			}
+			})
 
-# with open('data/agency_spending_raw_dump.json', 'w') as outfile:
-# 	json.dump(agency_results, outfile)
+with open('seed_data/agency_spending_raw_dump.json', 'w') as outfile:
+	json.dump(agency_results, outfile)
 
 # federal account spending
 # account_results = []
-# with open('data/federal_account_spending.json', 'r') as f:
+# with open('pull_data/processed/federal_account_spending.json', 'r') as f:
 # 	data = json.load(f)
 # 	data_results = data["results"]
 # 	print(len(data_results), '<--length')
@@ -43,26 +42,26 @@ import json
 # 			}
 # 			})
 
-# with open('data/federal_account_spending_raw_dump.json', 'w') as outfile:
+# with open('seed_data/federal_account_spending_raw_dump.json', 'w') as outfile:
 # 	json.dump(account_results, outfile)
 
 # list agencies
-la_results = []
-with open('data/list_agencies.json', 'r') as f:
-	data = json.load(f)
-	cfo_agencies = data["agencies"]["cfo_agencies"]
-	for i in range(len(cfo_agencies)):
-		la_results.append({
-			"model": "cost_compare.List_Agency_Raw",
-			"pk": i,
-			"fields": {
-				"cgac_code": cfo_agencies[i]["cgac_code"],
-				"name": cfo_agencies[i]["name"],
-				"toptier_agency_id": cfo_agencies[i]["toptier_agency_id"]
-			}
-			})
-	with open('data/list_agencies_raw_dump.json', 'w') as outfile:
-		json.dump(la_results, outfile)
+# la_results = []
+# with open('pull_data/processed/list_agencies.json', 'r') as f:
+# 	data = json.load(f)
+# 	cfo_agencies = data["agencies"]["cfo_agencies"]
+# 	for i in range(len(cfo_agencies)):
+# 		la_results.append({
+# 			"model": "cost_compare.List_Agency_Raw",
+# 			"pk": i,
+# 			"fields": {
+# 				"cgac_code": cfo_agencies[i]["cgac_code"],
+# 				"name": cfo_agencies[i]["name"],
+# 				"toptier_agency_id": cfo_agencies[i]["toptier_agency_id"]
+# 			}
+# 			})
+# 	with open('seed_data/list_agencies_raw_dump.json', 'w') as outfile:
+# 		json.dump(la_results, outfile)
 
 # toptier agency spending--no longer in use
 # results = []

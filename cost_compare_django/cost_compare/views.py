@@ -9,9 +9,18 @@ import json
 # from django.shortcuts import render
 
 # Create your views here.
-class Agency_Raw(View):
-	# toptier agency seed route; will call https://api.usaspending.gov/api/v2/references/toptier_agencies/
-	def post(self, request):
+class Agencies_Raw(View):
+	
+	#only use csrf_exempt in development
+	@method_decorator(csrf_exempt)
+	def dispatch(self, request, *args, **kwargs):
+		return super(Agencies_Raw, self).dispatch(request, *args, **kwargs)
 
-		try:
+	def get(self, request):
+		agency_list = list(Agency_Raw.objects.values())
+		return JsonResponse({
+			'Content-Type': 'application/json',
+			'status': 200,
+			'data': agency_list
+			}, safe=False)
 			

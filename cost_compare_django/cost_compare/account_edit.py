@@ -17,7 +17,7 @@ for i in range(len(files)):
 		for j in range(len(federal_accounts)):
 			results.append({
 				"model": "cost_compare.Account_Key",
-				"pk": 'a' + str(files[i].split('.')[0]) + 'fa' + str(federal_accounts[j]["federal_account_id"]),
+				"pk": 10000*int(files[i].split('.')[0]) + int(federal_accounts[j]["federal_account_id"]),
 				"fields": {
 					"federal_account_id": federal_accounts[j]["federal_account_id"],
 					"federal_account_name": federal_accounts[j]["federal_account_name"],
@@ -26,3 +26,5 @@ for i in range(len(files)):
 			})
 	with open('seed_data/' + files[i].split('.')[0] + '.json', 'w') as outfile:
 		json.dump(results, outfile)
+
+# to be followed up with ../manage.py loaddata [filename]
