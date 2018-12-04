@@ -23,4 +23,31 @@ class Agencies_Raw(View):
 			'status': 200,
 			'data': agency_list
 			}, safe=False)
-			
+
+class Accounts_Raw(View):
+
+	@method_decorator(csrf_exempt)
+	def dispatch(self, request, *args, **kwargs):
+		return super(Accounts_Raw, self).dispatch(request, *args, **kwargs)
+
+	def get(self, request):
+		account_list = list(Federal_Account_Raw.objects.values())
+		return JsonResponse({
+			'Content-Type': 'application/json',
+			'status': 200,
+			'data': account_list
+			}, safe=False)
+
+class Consumer_References(View):
+
+	@method_decorator(csrf_exempt)
+	def dispatch(self, request, *args, **kwargs):
+		return super(Consumer_References, self).dispatch(request, *args, **kwargs)
+
+	def get(self, request):
+		cref_list = list(Consumer_Reference.objects.values())
+		return JsonResponse({
+			'Content-Type': 'application/json',
+			'status': 200,
+			'data': cref_list
+			}, safe=False)
