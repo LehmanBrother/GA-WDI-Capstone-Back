@@ -6,13 +6,10 @@ from django.utils.decorators import method_decorator
 from django.contrib.auth.decorators import login_required
 from django.contrib.auth.models import User
 import json
-# from django.shortcuts import render
 
 # Create your views here.
 class Agencies_Raw(View):
 	
-	#only use csrf_exempt in development
-	@method_decorator(csrf_exempt)
 	def dispatch(self, request, *args, **kwargs):
 		return super(Agencies_Raw, self).dispatch(request, *args, **kwargs)
 
@@ -26,7 +23,6 @@ class Agencies_Raw(View):
 
 class Accounts_Raw(View):
 
-	@method_decorator(csrf_exempt)
 	def dispatch(self, request, *args, **kwargs):
 		return super(Accounts_Raw, self).dispatch(request, *args, **kwargs)
 
@@ -40,7 +36,6 @@ class Accounts_Raw(View):
 
 class Consumer_References(View):
 
-	@method_decorator(csrf_exempt)
 	def dispatch(self, request, *args, **kwargs):
 		return super(Consumer_References, self).dispatch(request, *args, **kwargs)
 
@@ -52,7 +47,6 @@ class Consumer_References(View):
 			'data': cref_list
 			}, safe=False)
 
-	# @method_decorator(login_required)
 	def post(self, request):
 		data = request.body.decode('utf-8')
 		data = json.loads(data)
